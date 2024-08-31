@@ -1,6 +1,6 @@
 # Rubiks-Cube-Cracker
 
-A virtual Rubik's Cube with a built-in optimal solver written in Python and rendered with OpenGL.  
+A virtual Rubik's Cube with a built-in optimal solver written in Python and rendered with _______.  
 The optimal solver can solve any scrambled cube in **20 moves** or fewer using *Korf's algorithm*.  
 
 
